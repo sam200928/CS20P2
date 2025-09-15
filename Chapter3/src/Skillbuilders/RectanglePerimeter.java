@@ -8,7 +8,7 @@ public class RectanglePerimeter
 	public static void main(String[] args) 
 	{
 	//declare variables	
-		 Scanner input = new Scanner(System.in);
+		/* Scanner input = new Scanner(System.in);
 	        
 	        System.out.print("Enter the width of the rectangle: ");
 	        int width = input.nextInt();
@@ -23,6 +23,36 @@ public class RectanglePerimeter
         System.out.println("Length is: " + length);
 	
         input.close();
+	*/
+	
+		 System.out.println("How to play Rock,Paper,Scissors");
+		 System.out.println("");
+		 System.out.println("Form your hand into a ball ");
+		 System.out.println("");
+		 System.out.println("Hit the palm of your hand three times");
+		 System.out.println("");
+		 System.out.println("then lift up you palm and say shoot");
+		 System.out.println("");
+		 System.out.println("before you do this you have three choices");
+		 System.out.println("");
+		 System.out.println("Rock,Paper,Scissors");
+		 System.out.println("");
+		 System.out.println("When you say shoot you chose one of the three");
+		 System.out.println("");
+		 System.out.println("Scissors beats Paper");
+		 System.out.println("");
+		 System.out.println("Paper beats Rock");
+		 System.out.println("");
+		 System.out.println("Rock beats Sissors");
+		 System.out.println("");
+		 System.out.println("");
+		 System.out.println("");
+		 System.out.println("");
+		 System.out.println("");
+		 System.out.println("");
+		 System.out.println("");
+	
+	
 	}
 
 }

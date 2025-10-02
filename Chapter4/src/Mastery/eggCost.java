@@ -25,7 +25,13 @@ public class eggCost {
         }
         double totalCost = dozen * pricePerDozen + extraEggs * (pricePerDozen / 12);
             System.out.printf("The total cost for %d eggs is = $%.2f%n", eggs, totalCost);
-       input.close();
+
+            input.close();
  
     }
 }
+
+/*
+Enter the number of eggs purchased: 18
+The total cost for 18 eggs is = $0.75
+*/

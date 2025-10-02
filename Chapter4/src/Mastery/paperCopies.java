@@ -31,4 +31,8 @@ System.out.print("Enter the number of copies to be printed: ");
         input.close();
     }   
 }
-
+/*
+Enter the number of copies to be printed: 1001
+The price per copy is = $0.25
+The total cost for 1001 copies is = $250.25
+*/

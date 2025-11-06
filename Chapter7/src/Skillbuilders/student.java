@@ -11,7 +11,7 @@ public class student
 	{
 		firstName = "";
 		lastName = "";
-		address = "###";
+		address = "####";
 		stuID = 00000;
 	
 	}

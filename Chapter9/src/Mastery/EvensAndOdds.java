@@ -33,3 +33,11 @@ public class EvensAndOdds {
         System.out.println();
     }
 }
+
+
+/*
+Odd
+35 35 85 69 71 49 79 83 67 23 67 9 95 21 87 
+Even
+42 98 54 84 12 50 98 88 6 62 
+*/
